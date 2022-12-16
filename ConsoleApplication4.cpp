@@ -4,8 +4,8 @@
 int main()
 {
     std::ifstream fin("input.txt");
-
-    int arr[6] = { 1,2,3,4,5,6 };
+    // testing commit
+    int arr[6] = {1, 2, 3, 4, 5, 6};
 
     int a, b, c;
     fin >> a >> b >> c;
